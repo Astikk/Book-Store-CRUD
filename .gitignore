@@ -1,0 +1,13 @@
+
+# Ignore virtual environment
+server/venv/
+
+# Ignore SQLite database file
+server/newproject/db.sqlite3
+
+# Ignore SQLite WAL & SHM files (important)
+server/newproject/db.sqlite3-shm
+server/newproject/db.sqlite3-wal
+
+# Ignore Python cache
+**/__pycache__/
