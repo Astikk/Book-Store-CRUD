@@ -1,19 +1,20 @@
-Basic Foundation
+## Basic Foundation
 
-Django Rest Framework
+### Django Rest Framework
 - Django ORM
 - Serialization
-- request / Respond
+- Request / Response
 - Validation
-- Cors middleware
+- CORS Middleware
 - Error Handling
-- Status
-- Get, Post, Put, Delete
-- migration
+- HTTP Status Codes
+- GET, POST, PUT, DELETE
+- Migrations
+- Virtual Environment (venv)
 
-  React + Vue
-  - useState
-  - useEffect
-  - fetch
-  - asnyc / await
-  - events
+### React + Vue
+- useState
+- useEffect
+- Fetch API
+- async / await
+- Event Handling
